@@ -49,6 +49,9 @@ nav {
   background-color: var(--background-color);
   border-color: var(--accent-color);
   min-height: 64px;
+
+  display: flex;
+  justify-content: center;
 }
 
 nav li {
@@ -88,5 +91,3 @@ footer {
   width: 100%;
   text-align: center;
 }
-
-
